@@ -1,1 +1,1 @@
-# branding
+- This folder and its content, including but not limited to logo and designs, are the property of www.kenseishido.com.
